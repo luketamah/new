@@ -1,0 +1,21 @@
+
+
+
+
+
+.comments {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+}
+
+.last_name {
+    text-align: right;
+}
+
+.email {
+border:none;
+height: 30px;
+width: 100px;
+
+}
